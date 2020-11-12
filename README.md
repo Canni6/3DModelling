@@ -7,7 +7,7 @@ This repository displays some of the 3D models I have produced.
 This model was developed using SolidWorks to conduct an engineering study on an existing jib crane that sought to extend the arm by one metre. 
 By mimicking the original design specifications of the jib crane, the model enabled the ability to simulate proposed modifications to the crane components and undertake structural analysis and load rating.
 
-![alt text]('Jib Crane SW.png')
+![alt text](Jib Crane SW.png)
 
 ## Home Office Visualisation
 
