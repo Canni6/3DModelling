@@ -13,3 +13,5 @@ By mimicking the original design specifications of the jib crane, the model enab
 
 The above animation displays an example of a previous visualisation project. The model was created in SketchUp based on source photographs of an existing home office, then imported into Unity. 
 This provided a virtual design studio to trial modifications to the dimensions, layout and features of the office.
+
+![](2020_11_12_Office3.gif)
