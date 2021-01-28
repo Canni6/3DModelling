@@ -24,4 +24,4 @@ A gif displaying the jib crane arm rotation alongside the office.
 ## Tower Defence Tower
 A fantasy inspired tower created in Blender, designed for a tower defence game made with Unity.
 
-![](TDGame_tower_blender_snip.gif)
+![](TDGame_tower_blender_snip.png)
